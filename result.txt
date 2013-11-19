@@ -6,4 +6,7 @@ pca-sift  input_0.png/input_1.png          786/824          7.245     5
 gsift:no information found!
 -------------------------------------------------------------------------------------------------
 asift      adam1/2                                                                        905(927)
+asift      input_0(1).png/input_1(1).png    28433/31940  111 3345
+asift      input_0(2).png/input_1(2).png    46226/45088  250 3953
+asift      input_0.png/input_1.png          29362/24740  >60 236
 surf       adam1/2                         399/215                                        399
